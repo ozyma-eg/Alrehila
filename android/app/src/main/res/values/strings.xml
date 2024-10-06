@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alrehila</string>
+    <string name="facebook_app_id">912624637168357</string>
+    <string name="fb_login_protocol_scheme">fb60e69d18e088baf06af3171763aab73d</string>
+    <string name="facebook_client_token">0e298970d9db80694986cd360c6166ee</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>
